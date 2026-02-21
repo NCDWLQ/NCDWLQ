@@ -1,10 +1,8 @@
-# NCDWLQ
+## 👋 Hi there
+**I'm LooooongFish.**
 
-## 关于我
+### Links
+- Blog: [https://ncdwlq.space](https://ncdwlq.space)
+- Email: [i@ncdwlq.space](mailto:i@ncdwlq.space)
 
-***
-
-[![My GitHub](https://github-readme-stats.vercel.app/api?username=NCDWLQ)]()
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NCDWLQ&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
